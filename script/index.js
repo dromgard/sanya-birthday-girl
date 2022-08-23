@@ -8,7 +8,7 @@ const congratulations = [
   '生日快乐，三亚!',
   'З днем народження, Саню!',
   'Joyeux anniversaire, Sanya!',
-  'С днем рождения, Сергей!'
+  'С днем рождения, Саня!'
 ];
 
 // CONSTANTS
