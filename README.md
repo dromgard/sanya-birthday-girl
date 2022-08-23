@@ -11,4 +11,4 @@ This is a birthday greeting card. The header displays the phrase "Happy Birthday
 * Animation is used in dynamic gradient backgrounds.
 
 ## **Посмотреть проект он-лайн:**
-* [Сheck out the project](https://dromgard.github.io/sergio-birthday-boy/)
+* [Сheck out the project](https://dromgard.github.io/sanya-birthday-girl/)
