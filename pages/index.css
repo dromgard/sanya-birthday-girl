@@ -1,0 +1,25 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/congratulations/congratulations.css);
+
+@import url(../blocks/congratulations/__text/congratulations__text.css);
+
+@import url(../blocks/photo/photo.css);
+
+@import url(../blocks/photo/__common/photo__common.css);
+
+@import url(../blocks/controls/controls.css);
+
+@import url(../blocks/controls/__button/controls__button.css);
+
+@import url(../blocks/controls/__button/_audio/controls__button_audio_hidden.css);
+
+@import url(../blocks/audio/_hidden/audio_hidden.css);
+
+@import url(../blocks/controls/__audio/controls__audio.css);

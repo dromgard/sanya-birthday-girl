@@ -1,0 +1,39 @@
+.congratulations__text {
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    text-transform: uppercase;
+    background: #000000;
+    color: white;
+    mix-blend-mode: multiply;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 4vw;
+    line-height: 50px;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 890px) {
+    .congratulations__text {
+        font-size: 36px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+  .congratulations__text {
+    line-height: 37px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .congratulations__text {
+    line-height: 30px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+    .congratulations__text {
+        font-size: 13px;
+    }
+}

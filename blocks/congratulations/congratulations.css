@@ -1,0 +1,6 @@
+.congratulations {
+    width: 100%;
+    padding: 20px 0 80px;
+    display: flex;
+    align-items: center;
+}
